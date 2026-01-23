@@ -83,7 +83,7 @@ footer > div {
   padding: 0px 24px;
 }
 
-.footer > a > svg {
+svg {
   cursor: pointer;
 }
 
@@ -92,7 +92,7 @@ footer > div {
   gap: 16px;
 }
 
-.footer a {
+a {
   display: inline-block;
   width: 40px;
   height: 40px;
@@ -101,7 +101,7 @@ footer > div {
   transition: filter 0.3s ease;
 }
 
-.footer a:hover {
+a:hover {
   filter: brightness(0.7);
   cursor: pointer;
 }
