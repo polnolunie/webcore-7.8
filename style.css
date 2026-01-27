@@ -16,9 +16,9 @@
   box-sizing: border-box;
 }
 
-body {
+aside {
   width: 320px;
-  height: 100%;
+  height: 100vh;
   min-height: 700px;
   position: sticky;
   display: flex;
